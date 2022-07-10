@@ -75,7 +75,7 @@ docker-compose exec web python manage.py loaddata fixtures.json
 http://51.250.98.36/redoc/  Документация по API
 
 ## Автор workflow:
-###Гуляев Артем
+Гуляев Артем
 
 ## Авторы YaMDb 
 ### Гуляев Артем
